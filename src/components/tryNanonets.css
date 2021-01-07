@@ -1,0 +1,102 @@
+
+/*
+.containe{
+    
+position: absolute;
+width: 950px;
+height: 714px;
+left: 245px;
+top: 3200.54px;
+
+
+border: 1px solid #DDE2F0;
+box-sizing: border-box;
+
+border-radius: 8px;
+
+}
+*/
+
+
+
+.contain{
+    color:white;
+    background: linear-gradient(103.64deg, #48559E 9.78%, #283577 63.96%);
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.04);
+    width: 100%;
+    height: 325px;
+    
+}
+
+.j4{
+    margin-top: 2rem;
+    
+    text-align: center;
+    line-height: 162.2%;
+    letter-spacing: -0.015em;
+    font-weight: 600;
+    font-size: 24px;
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+
+.h4{
+    font-family: Arial, Helvetica, sans-serif;
+margin-top: 1rem;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+
+/* identical to box height, or 150% */
+
+text-align: center;
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+}
+
+
+@media only screen and (max-width:600px){
+
+span{
+    font-size: 12px;
+    line-height: 15px;
+    font-weight: 600;
+
+}
+.btn1{
+    margin-left: -1rem;
+}
+.btn2{
+ margin-right: -2rem;
+}
+.j4{
+    margin-top: 3rem;
+    text-align: center;
+    line-height: 158%;
+    letter-spacing: -0.015em;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+
+.h4{
+    font-family: Arial, Helvetica, sans-serif;
+margin-top: 1rem;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: -0.015em;
+
+/* identical to box height, or 150% */
+
+text-align: center;
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+}
+
+}

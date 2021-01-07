@@ -1,0 +1,86 @@
+.row3{
+    margin-top: rem;
+}
+.j3{
+    color: rgb(41, 57, 99);
+    font-size: 28px;
+    margin-bottom:4.6rem;
+    text-align: center;
+    justify-items: center;
+    align-items: center;
+    line-height: 162.2%;
+    font-weight: 600;
+    letter-spacing: -0.015em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.h30{
+    color: #293963;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 8rem;
+    text-align: start;
+    line-height: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.k3{
+    color: #354454;
+    font-size: 14px;
+    line-height: 25px;
+    /* or 180% */
+    font-weight: normal;
+    letter-spacing: -0.015em;
+   font-style: normal; 
+    margin-bottom: 25px;
+    text-align: start;
+    font-family:Arial, Helvetica, sans-serif;
+
+    
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+  
+    max-width: 320px;
+   
+}
+
+@media only screen and (max-width:600px){
+    .h30{
+        color: #293963;
+        font-size: 18px;
+        font-weight: 300;
+        line-height: 27px;
+        letter-spacing: -0.015em;
+        font-family: Arial, Helvetica, sans-serif;
+        
+    }
+    .j3{
+        color: rgb(41, 57, 99);
+        font-size: 20px;
+        margin-bottom:-5rem;
+        letter-spacing: -0.015em;
+        line-height: 158%;
+        text-align: center;
+        line-height: 162%;
+        font-weight: 600;
+        font-family: Arial, Helvetica, sans-serif;
+    
+    }
+ 
+    
+.k3{
+    color: #354454;
+    font-size: 15px;
+    line-height: 25px;
+    /* or 180% */
+    font-weight: normal;
+    letter-spacing: -0.015em;
+   font-style: normal; 
+    margin-bottom: 25px;
+    text-align: start;
+    font-family:Arial, Helvetica, sans-serif;
+  
+    max-width: 294px;
+   
+}
+
+}

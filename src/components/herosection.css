@@ -1,0 +1,115 @@
+
+
+.j1{
+    color: #23325F;
+    font-size: 34px;
+    margin-top: 75px;
+    letter-spacing: -0.015em;
+    margin-bottom:2rem;
+    font-weight: 700;
+    line-height: 44px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.k1{
+    color: #68798D;
+    margin-bottom: 0;
+ font-size: 15px;
+ line-height: 25px;
+ letter-spacing: -0.015em;
+ font-weight: 500;
+ font-family: Arial, Helvetica, sans-serif
+}
+
+@media only screen and (max-width:600px){
+
+    .j1{
+        color: #23325F;
+        font-size: 25px;
+        margin-top: 75px;
+        font-style: normal;
+        letter-spacing: -0.015em;
+        margin-bottom:2rem;
+        font-weight: 600;
+        line-height: 30px;
+        font-family: Arial, Helvetica, sans-serif
+    }
+    
+.k1{
+    color: #68798D;
+    margin-bottom: 0;
+ font-size: 18px;
+ line-height: 27px;
+ letter-spacing: -0.015em;
+ font-weight: 500;
+ font-family: Arial, Helvetica, sans-serif
+}
+}
+
+
+
+
+/*
+.container{
+
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+    
+ 
+}
+
+
+
+.MuiContainer-root {
+   
+}
+.jss1{
+    color: #fff;
+    margin: auto;
+    display: grid;
+    grid-gap: 30px;
+    max-width: 1000px;
+    align-items: center;
+    padding-top: 75px;
+    object-position: left;
+}
+.jss2{
+    width: 100%;
+    height: 100%;
+    display: block;
+    outline: 0;
+    max-width: 100%;
+    max-height: 300px;
+    object-fit: contain;
+    object-position: right;
+}
+.jss3{
+    color: #23325F;
+    font-size: 26px;
+    margin-top: 0;
+    font-weight: 600;
+    line-height: 1.3;
+    margin-bottom: 20px;
+}
+
+.jss4{
+    color: #68798D;
+    margin: 0;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+element.style {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    margin-left: -4px;
+    margin-right: -4px;
+}
+
+*/
